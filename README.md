@@ -5,7 +5,7 @@
   <p align="center">
     <b>Building intelligent systems for Healthcare, Agriculture, and Security.</b>
     <br />
-    BS AI Student at FAST-NUCES.
+    Final-Year AI Student at FAST-NUCES.
   </p>
 
   <div align="center">
@@ -67,7 +67,7 @@ I don't just train models; I build end-to-end pipelines that deploy scalable AI 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rai-wasif&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rai-wasif&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai-wasif&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
