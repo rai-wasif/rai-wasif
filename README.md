@@ -1,24 +1,78 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>AI roadmap projects involving Computer Vision, LLMs, LangChain, LangGraph, and Deep Learning. Also exploring React.js for frontend and experimenting with Claude CLI and Flask + MongoDB apps.<br><br>👯 I’m looking to collaborate on:<br>Real-world projects in AI, Machine Learning, Hyperspectral Image Analysis, and intelligent web apps combining React.js, Python, and LLM toolchains.<br><br>🤝 I’m looking for help with:<br>Implementing and scaling LLM pipelines (LangChain, LangGraph), optimizing hyperspectral image processing, and building AI-driven full-stack applications.<br><br>🌱 I’m currently learning:<br>Advanced AI workflows, LangChain & LangGraph, Vector Databases, Computer Vision, Hyperspectral Imaging, and robust React.js integrations.<br><br>💬 Ask me about:<br>AI project structure, LLM tools, SQL + NoSQL data design, Claude CLI, OpenCV, Flask/Node.js APIs, and working with real-world image datasets.<br><br>⚡ Fun fact:<br>I like turning complex AI concepts into elegant and cleanly-commented code — and I’m always up for learning one step ahead of the trend.<br><br>👨‍🎓 Muhammad Wasif<br>BS Artificial Intelligence<br>FAST National University of Computer and Emerging Sciences
+<div align="center">
+  <h1 align="center">Hi there, I'm Muhammad Wasif! 👋</h1>
+  <h3 align="center">🚀 Applied AI Engineer | Computer Vision & MLOps Specialist</h3>
+  
+  <p align="center">
+    <b>Building intelligent systems for Healthcare, Agriculture, and Security.</b>
+    <br />
+    Final-Year AI Student at FAST-NUCES.
+  </p>
 
+  <div align="center">
+    <a href="https://www.linkedin.com/in/muhammad-wasif-752987361" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:raihasnainbhatti9@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/rai-wasif">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </div>
+</div>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/WASIF) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raihasnainyaseenbhatti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wasif-yaseen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihasnainbhatti9@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rai-wasif&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rai-wasif&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rai-wasif&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rai-wasif&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rai-wasif&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rai-wasif&icon=10&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+I am a **Machine Learning Engineer** and **Full-Stack AI Developer** with a passion for turning complex theoretical concepts into production-ready software. My expertise lies in **Computer Vision**, **NLP**, and **MLOps**.
+
+I don't just train models; I build end-to-end pipelines that deploy scalable AI solutions. From diagnosing bone fractures using **ResNet** to detecting phishing attacks with **DistilBERT**, I focus on high-impact, real-world applications.
+
+- 🔭 **I’m currently working on:** AI roadmaps involving **Computer Vision**, **LLMs** (LangChain/LangGraph), and **Deep Learning**. I'm also integrating **React.js** frontends with **Flask/FastAPI** backends.
+- 👯 **I’m looking to collaborate on:** Real-world projects in **Medical Imaging**, **Hyperspectral Image Analysis**, and intelligent web apps combining Python and LLM toolchains.
+- 🤝 **I’m looking for help with:** Scaling LLM pipelines and optimizing hyperspectral image processing algorithms.
+- 🌱 **I’m currently learning:** Advanced AI workflows, **Vector Databases**, **LangGraph**, and robust React.js integrations.
+- 💬 **Ask me about:** AI Project Structure, MLOps (Docker/Airflow), Claude CLI, OpenCV, and SQL/NoSQL data design.
+- ⚡ **Fun fact:** I like turning complex AI concepts into elegant and cleanly-commented code — and I’m always learning one step ahead of the trend.
+
+---
+
+### 🛠️ Technical Arsenal
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **🤖 Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) |
+| **👁️ Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![CNNs](https://img.shields.io/badge/CNNs-Architecture-blue) ![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-CT%2FXRay-green) |
+| **🗣️ NLP & LLMs** | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-BERT%2FDistilBERT-yellow) |
+| **⚙️ MLOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-Data_Versioning-purple) |
+| **💻 Full Stack** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Bone Fracture Detection](https://github.com/rai-wasif/Bone-Fracture-Classification-ResNet152V2)** | `ResNet152V2` `TensorFlow` `Transfer Learning` | **Medical CV:** Binary classification of fractures from X-rays achieving **87.76% accuracy** using a fine-tuned ResNet152V2 model. |
+| **[End-to-End MLOps Pipeline](https://github.com/rai-wasif/MLOPS_Develop-to-Deploy)** | `AWS` `Docker` `DVC` `Airflow` `GitHub Actions` | **ML Engineering:** A complete production pipeline featuring data versioning, ETL orchestration, and automated cloud deployment. |
+| **[Grow Lens (FYP)](https://github.com/rai-wasif)** | `CNNs` `Android` `AgTech` `Computer Vision` | **Agriculture AI:** Mobile-based plant disease detection system designed for real-world agricultural conditions with robust noise handling. |
+| **[Phishing Detection Analysis](https://github.com/rai-wasif/Zeroshot-vs-Finetunning)** | `DistilBERT` `Transformers` `NLP` | **Cybersecurity:** Comparative analysis of Zero-Shot vs. Fine-Tuning. Achieved **98.77% Recall** on 14k+ emails using domain adaptation. |
+| **[Diabetes Risk Prediction](https://github.com/rai-wasif/Classification-on-Multiple-Disease_ML-Project)** | `Scikit-learn` `SMOTE` `Random Forest` | **Data Science:** Multi-class risk prediction system handling severe class imbalance to achieve **91.35% accuracy**. |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rai-wasif&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai-wasif&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <i>"I strongly believe that AI is not just about high accuracy numbers, but about building reliable systems that solve real human problems."</i>
+</div>
