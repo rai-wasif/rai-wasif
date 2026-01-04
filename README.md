@@ -5,7 +5,7 @@
   <p align="center">
     <b>Building intelligent systems for Healthcare, Agriculture, and Security.</b>
     <br />
-    Final-Year AI Student at FAST-NUCES.
+    BS AI Student at FAST-NUCES.
   </p>
 
   <div align="center">
