@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Muhammad Wasif 👋</h1>
-  <h3 align="center">🚀 Applied AI Engineer | Computer Vision • NLP • MLOps</h3>
+  <h3 align="center"> Applied AI Engineer | Computer Vision • NLP • MLOps</h3>
   
   <p align="center">
     <b>Building practical AI systems for Healthcare, Agriculture, and Security</b><br/>
